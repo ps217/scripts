@@ -29,8 +29,8 @@ EDITOR=nano
 USE_CCACHE=true
 
 # My kernel identity in nutshell
-KBUILD_BUILD_USER=krasCGQ
-KBUILD_BUILD_HOST=KudProject
+KBUILD_BUILD_USER=PS217
+KBUILD_BUILD_HOST=NEXUS
 
 # Export some variables to satisfy shellcheck requirements
 export GPG_TTY EDITOR USE_CCACHE KBUILD_BUILD_USER KBUILD_BUILD_HOST
